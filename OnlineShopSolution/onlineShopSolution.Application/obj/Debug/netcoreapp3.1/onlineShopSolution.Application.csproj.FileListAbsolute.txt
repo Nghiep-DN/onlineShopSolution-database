@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Application\bin\Debug\netcoreapp3.1\onlineShopSolution.Application.deps.json
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Application\bin\Debug\netcoreapp3.1\onlineShopSolution.Application.dll
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Application\bin\Debug\netcoreapp3.1\onlineShopSolution.Application.pdb
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Application\obj\Debug\netcoreapp3.1\onlineShopSolution.Application.csprojAssemblyReference.cache
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Application\obj\Debug\netcoreapp3.1\onlineShopSolution.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Application\obj\Debug\netcoreapp3.1\onlineShopSolution.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Application\obj\Debug\netcoreapp3.1\onlineShopSolution.Application.dll
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Application\obj\Debug\netcoreapp3.1\onlineShopSolution.Application.pdb

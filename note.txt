@@ -1,0 +1,19 @@
+-tree
+-ER-RM...
+hệ thống và nghiệp vụ, luồng đi của dữ liệu
+
+admin Abcd1234$
+
+----------------------------------------
+tầng Data: install packages
+-Microsoft.EntityFramerorkCore.SqlServer
+-Microsoft.EntityFramerorkCore.Design 
+-Microsoft.EntityFramerorkCore.Tools => migration
+
+-tạo folder
+ Entity :chứa entity
+ EF : entity framework
+ Configuration : validate các trường để cho vào DB
+ Enums : các hằng cố định tạo ra
+
+
