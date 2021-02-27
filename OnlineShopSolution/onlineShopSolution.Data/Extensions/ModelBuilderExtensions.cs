@@ -8,7 +8,10 @@ using Microsoft.AspNetCore.Identity;
 
 namespace onlineShopSolution.Data.Extensions
 {
-    // seeding data
+    
+    /// <summary>
+    ///  seeding data
+    /// </summary>
     public static class ModelBuilderExtensions
     {
         public static void Seed(this ModelBuilder modelBuilder)
@@ -157,12 +160,43 @@ namespace onlineShopSolution.Data.Extensions
                 LastName = "Do",
                 DOB = new DateTime(1999, 12, 28)
             });
-
             modelBuilder.Entity<IdentityUserRole<Guid>>().HasData(new IdentityUserRole<Guid>
             {
                 RoleId = roleId,
                 UserId = adminId
             });
+
+            // them moi
+            //modelBuilder.Entity<AppRole>().HasData(new AppRole
+            //{
+            //    Id = new Guid("4D78A60A-2DB4-4E79-872D-0D5DF839EA02"),
+            //    Name = "test",
+            //    NormalizedName = "test",
+            //    Description = "Test role"
+            //});
+
+            //modelBuilder.Entity<AppUser>().HasData(new AppUser
+            //{
+            //    Id = new Guid("35D63F39-F329-4AE4-8712-F4D985706747"),
+            //    UserName = "test",
+            //    NormalizedUserName = "test",
+            //    Email = "donghiep9999@gmail.com",
+            //    NormalizedEmail = "donghiep9999@gmail.com",
+            //    EmailConfirmed = true,
+            //    PasswordHash = hasher.HashPassword(null, "nghiepdo.dev"),
+            //    SecurityStamp = string.Empty,
+            //    FirstName = "Nghiep",
+            //    LastName = "DN",
+            //    DOB = new DateTime(1999, 12, 28)
+            //});
+
+            //modelBuilder.Entity<IdentityUserRole<Guid>>().HasData(new IdentityUserRole<Guid>
+            //{
+            //    RoleId = roleId,
+            //    UserId = adminId
+            //});
+
+          
         
 
     }

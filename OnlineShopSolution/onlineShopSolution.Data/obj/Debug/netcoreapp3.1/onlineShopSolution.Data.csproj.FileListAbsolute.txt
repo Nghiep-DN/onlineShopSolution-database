@@ -7,3 +7,16 @@ C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug
 C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.AssemblyInfo.cs
 C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.dll
 C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.pdb
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\bin\Debug\netcoreapp3.1\onlineShopSolution.Data.deps.json
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\bin\Debug\netcoreapp3.1\onlineShopSolution.Data.runtimeconfig.json
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\bin\Debug\netcoreapp3.1\onlineShopSolution.Data.runtimeconfig.dev.json
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\bin\Debug\netcoreapp3.1\onlineShopSolution.Data.dll
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\bin\Debug\netcoreapp3.1\onlineShopSolution.Data.pdb
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.dll
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.pdb
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Data\obj\Debug\netcoreapp3.1\onlineShopSolution.Data.genruntimeconfig.cache

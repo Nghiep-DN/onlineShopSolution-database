@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\onlineShopSolution.Data.csproj": {}
+    "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\onlineShopSolution.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\onlineShopSolution.Data.csproj": {
+    "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\onlineShopSolution.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\onlineShopSolution.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\onlineShopSolution.Data.csproj",
         "projectName": "onlineShopSolution.Data",
-        "projectPath": "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\onlineShopSolution.Data.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\onlineShopSolution.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -85,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\onlineShopSolution.WebApp.csproj": {}
+    "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\onlineShopSolution.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\onlineShopSolution.WebApp.csproj": {
+    "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\onlineShopSolution.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\onlineShopSolution.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\onlineShopSolution.WebApp.csproj",
         "projectName": "onlineShopSolution.WebApp",
-        "projectPath": "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\onlineShopSolution.WebApp.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\onlineShopSolution.WebApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\DATN\\Code\\eShop\\OnlineShopSolution\\onlineShopSolution.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

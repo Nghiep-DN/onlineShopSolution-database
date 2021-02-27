@@ -2,7 +2,7 @@
 -ER-RM...
 hệ thống và nghiệp vụ, luồng đi của dữ liệu
 
-admin Abcd1234$
+admin nghiepdo.dev
 
 ----------------------------------------
 tầng Data: install packages

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.AssemblyInfo.cs
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolutionViewModel\bin\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.deps.json
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolutionViewModel\bin\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.dll
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolutionViewModel\bin\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.pdb
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.dll
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.pdb
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\bin\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.deps.json
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\bin\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.dll
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\bin\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.pdb
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.AssemblyInfo.cs
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.dll
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.pdb
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolutionViewModel\obj\Debug\netcoreapp3.1\onlineShopSolution.ViewModel.csproj.CoreCompileInputs.cache

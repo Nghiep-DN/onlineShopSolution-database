@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Utilities\bin\Debug\netcoreapp3.1\onlineShopSolution.Utilities.deps.json
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Utilities\bin\Debug\netcoreapp3.1\onlineShopSolution.Utilities.dll
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Utilities\bin\Debug\netcoreapp3.1\onlineShopSolution.Utilities.pdb
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.AssemblyInfo.cs
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.dll
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.pdb
+C:\Users\user\Desktop\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Utilities\bin\Debug\netcoreapp3.1\onlineShopSolution.Utilities.deps.json
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Utilities\bin\Debug\netcoreapp3.1\onlineShopSolution.Utilities.dll
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Utilities\bin\Debug\netcoreapp3.1\onlineShopSolution.Utilities.pdb
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.AssemblyInfo.cs
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.dll
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.pdb
+C:\Users\user\Desktop\DATN\Code\eShop\OnlineShopSolution\onlineShopSolution.Utilities\obj\Debug\netcoreapp3.1\onlineShopSolution.Utilities.csproj.CoreCompileInputs.cache
